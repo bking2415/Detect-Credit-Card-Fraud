@@ -16,7 +16,7 @@ Machine Learning Algorithms concepts used in the code. Listed Below:
 
 ## Project Structure 
 
-- `fraudDetect.py` -- The implentation of the machine learning alorigthms on the train and test set.
+- `fraudDetect.py` -- The implementation of the machine learning algorithms on the train and test set.
 - `createFormula.py` -- Module to create the function used in the logistic regression model.
 - `fraud.png` -- Output of the decision tree created by the model.
 
